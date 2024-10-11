@@ -9,7 +9,7 @@
 
 using namespace std;
 using namespace sql;
-int main(void)
+int create(void)
 {  
   try {
     sql::Driver *driver;
